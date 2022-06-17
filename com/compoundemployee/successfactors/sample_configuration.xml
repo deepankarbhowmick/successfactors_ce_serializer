@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<configuration>
-  <personal_information field="formal_name">FORMAL_NAME</personal_information>
-  <personal_information field="marital_status">MARITAL_STATUS</personal_information>
-  <employment_information field="user_id">USER_ID</employment_information>
-  <job_information field="job_title">JOB_TITLE</job_information>
-  <job_information field="department">DEPARTMENT</job_information>
-</configuration>
